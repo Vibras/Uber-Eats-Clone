@@ -1,0 +1,7 @@
+{
+    "name": "uber.eats.clone",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+  }
