@@ -1,8 +1,0 @@
-{
-    "appId": "io.ionic.uber.eats.clone",
-    "appName": "uber.eats.clone",
-    "bundledWebRuntime": false,
-    "npmClient": "npm",
-    "webDir": "build",
-    "cordova": {}
-  }
